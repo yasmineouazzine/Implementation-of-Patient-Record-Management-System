@@ -1,4 +1,4 @@
-# Project: yasminesafahospital
+# Project: Implementation-of-Patient-Record-Management-System <b> yasminesafahospital </b>
 
 ## Description:
 
@@ -31,7 +31,7 @@ This project aims to implement an integrated patient record management system ac
 ## Contributors:
 
 - OUAZZINE YASMINE
-- 
+ 
 ## Contact:
 
 For any inquiries or feedback, please contact <b>yasmineouazzine@gmail.com </b>.
